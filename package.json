@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list-review",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawrahkonwea/To-do-list-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawrahkonwea/To-do-list-review/issues"
+  },
+  "homepage": "https://github.com/lawrahkonwea/To-do-list-review#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
